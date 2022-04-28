@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Java_Local_Language</string>
+    <string name="Change_Language">Изменит язык</string>
+    <string name="Show_Dialog">Показат Диалог</string>
+</resources>

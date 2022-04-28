@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Java_Local_Language</string>
+    <string name="Change_Language">Change Language</string>
+    <string name="Show_Dialog">Show Dialog</string>
+</resources>
